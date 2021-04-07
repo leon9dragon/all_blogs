@@ -1,6 +1,6 @@
 # 博客目录
 该仓库中所有的博文均为原创, 将搬运至 CSDN, 博客园等 ID 为 LEON9DRAGON 的博客帐号.
-
+[![Leon9dragon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leon9dragon)](https://github.com/anuraghazra/github-readme-stats)
 
 ## JAVA 笔记系列目录
 [001.JAVA基础_前要知识.md](https://github.com/leon9dragon/all_blogs/blob/main/notes_of_java/01.java_notes/001.JAVA%E5%9F%BA%E7%A1%80_%E5%89%8D%E8%A6%81%E7%9F%A5%E8%AF%86.md)<br/>
